@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "wwpatternlockview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPatternLockView",
+      "state" : {
+        "revision" : "ace82199904f5e5e4a95ef6ad092d3899432fdfb",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "wwprint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWPrint",
+      "state" : {
+        "revision" : "8f5928f5d36624d77f8fc563fd8e31a59cfac6b6",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
